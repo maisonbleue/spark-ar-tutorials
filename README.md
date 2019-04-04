@@ -4,7 +4,7 @@
 - [Spark AR documentation](https://www.sparkar.com/ar-studio/learn/documentation/before-you-start)
 - [Facebook Community](https://www.facebook.com/SparkARcreators/)
 # spark-ar-community-tutorials
-Library of tutorials for Spark AR.
+Library of community tutorials for Spark AR.
 
 **[EN] Occlusion Basics How to achieve a “hole in the head” effect with a transparent PNG! - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
 >https://www.youtube.com/watch?v=j7klMWrJFHs
@@ -23,6 +23,9 @@ https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fM
 
 **[EN] Spark AR - Face Deformation - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
 >https://www.youtube.com/watch?v=awJsJzTP4Dc
+
+**[EN] Spark AR - Animation Basics - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
+>https://www.youtube.com/watch?v=mit9xcOSsUQ
 
 **[EN] streamlined permissions, how to walk a client through to giving you permission to manage effects on their page - by ‎Casie Lane Millhouse-Singh‎ { [facebook](https://www.facebook.com/millhouse.madhouse) }**
 >https://www.facebook.com/millhouse.madhouse/videos/799396883759205/

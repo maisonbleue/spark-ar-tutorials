@@ -79,3 +79,8 @@ https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fM
 
 **[EN] AR Studio vs Lens Studio Side By Side Feature Comparison - by FusedVR { [youtube](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ) }**
 >https://www.youtube.com/watch?v=riLAnWOAkWw&list=PLihwab7Zw-Kx3WwFnH_5YjU0oz1JEKm_-&index=41
+
+# resources
+
+**[EN] This repo contains a complete solution to each tutorial on the AR Studio website - [Tutorials](https://developers.facebook.com/docs/ar-studio) - by Jam3 { [github](https://github.com/Jam3) }**
+https://github.com/Jam3/interns-ar-studio-tutorials

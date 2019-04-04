@@ -1,3 +1,8 @@
+# spark-ar-officials
+- [Spark AR Webiste](https://www.sparkar.com/ar-studio/)
+- [Download Spark AR](https://www.sparkar.com/ar-studio/download)
+- [Spark AR documentation](https://www.sparkar.com/ar-studio/learn/documentation/before-you-start)
+- [Facebook Community](https://www.facebook.com/SparkARcreators/)
 # spark-ar-tutorials
 Library of tutorials for Spark AR.
 

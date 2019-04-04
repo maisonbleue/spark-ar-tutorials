@@ -7,13 +7,13 @@
 Library of tutorials for Spark AR.
 
 **[EN] Occlusion Basics How to achieve a “hole in the head” effect with a transparent PNG! - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
->https://www.facebook.com/watch/?v=296672994339865
+>https://www.youtube.com/watch?v=j7klMWrJFHs
 
-**[EN] Sprite Sheets How to convert gifs (and other things) into sprite sheets to be used as animations within Spark AR! - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
->https://www.facebook.com/watch/?v=309545583096976
+**[EN] Spark AR - How to use gifs as Sprite Sheets - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
+>https://www.youtube.com/watch?v=cLQVGv8gG90
 
-**[EN] Effect Breakdown (“Automaton”) This is a long one - almost 40 minutes! Go behind the scenes on one of my most popular effects and see how every piece works - the facemeshes, texturing, light, scripting and more! - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
->https://www.facebook.com/watch/?v=313054119409307
+**[EN] Spark AR - Effect Breakdown ("Automaton") - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
+>https://www.youtube.com/watch?v=VvYa5yF38xQ
 
 **[EN] Import ANY video into Spark AR for testing! - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
 https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fMB6Li_OfsI0vhtvNEjn5_sBizjZiZuIdo

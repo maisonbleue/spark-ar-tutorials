@@ -1,20 +1,76 @@
 # spark-ar-tutorials
 Library of tutorials for Spark AR.
 
-[EN] Spark AR - Occlusion Basics How to achieve a “hole in the head” effect with a transparent PNG! - by Luke Hurd (https://www.facebook.com/lukejhurd/)
+[EN] Occlusion Basics How to achieve a “hole in the head” effect with a transparent PNG! - by Luke Hurd { fb: https://www.facebook.com/lukejhurd/ yt: https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q }
 https://www.facebook.com/watch/?v=296672994339865
 
-[EN] Spark AR - Sprite Sheets How to convert gifs (and other things) into sprite sheets to be used as animations within Spark AR! - by Luke Hurd (https://www.facebook.com/lukejhurd/)
+[EN] Sprite Sheets How to convert gifs (and other things) into sprite sheets to be used as animations within Spark AR! - by Luke Hurd { fb: https://www.facebook.com/lukejhurd/ yt: https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q }
 https://www.facebook.com/watch/?v=309545583096976
 
-[EN] Spark AR - Effect Breakdown (“Automaton”) This is a long one - almost 40 minutes! Go behind the scenes on one of my most popular effects and see how every piece works - the facemeshes, texturing, light, scripting and more! - by Luke Hurd (https://www.facebook.com/lukejhurd/)
+[EN] Effect Breakdown (“Automaton”) This is a long one - almost 40 minutes! Go behind the scenes on one of my most popular effects and see how every piece works - the facemeshes, texturing, light, scripting and more! - by Luke Hurd { fb: https://www.facebook.com/lukejhurd/ yt: https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q }
 https://www.facebook.com/watch/?v=313054119409307
 
-[EN] Spark AR - streamlined permissions, how to walk a client through to giving you permission to manage effects on their page - by ‎Casie Lane Millhouse-Singh‎ (https://www.facebook.com/millhouse.madhouse)
+[EN] Import ANY video into Spark AR for testing! - by Luke Hurd (https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q)
+https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fMB6Li_OfsI0vhtvNEjn5_sBizjZiZuIdo
+
+[EN] Spark AR - Effect Breakdown ("Wichita") - by Luke Hurd { fb: https://www.facebook.com/lukejhurd/ yt: https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q }
+https://www.youtube.com/watch?v=CvVhlCBInvI
+
+[EN] Spark AR - Face Deformation - by Luke Hurd { fb: https://www.facebook.com/lukejhurd/ yt: https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q }
+https://www.youtube.com/watch?v=awJsJzTP4Dc
+
+[EN] streamlined permissions, how to walk a client through to giving you permission to manage effects on their page - by ‎Casie Lane Millhouse-Singh‎ { fb: https://www.facebook.com/millhouse.madhouse }
 https://www.facebook.com/millhouse.madhouse/videos/799396883759205/
 
-[EN] Spark AR - Learn how to create portal AR effects - by Eugene Soh (https://www.facebook.com/EugeneSoh)
+[EN] Learn how to create portal AR effects - by Eugene Soh { fb: https://www.facebook.com/EugeneSoh }
 https://www.facebook.com/VisitSingaporeIN/videos/827895747558162/
 
-[EN] Spark AR - How to design AR portals with Spark AR Studio: a walkthrough - by Bram Van De Ven (https://www.facebook.com/vandevenbram)
+[EN] How to design AR portals with Spark AR Studio: a walkthrough - by Bram Van De Ven { fb: https://www.facebook.com/vandevenbram }
 https://arfected.com/how-to-portal/?fbclid=IwAR3NyPcMy5XpWpe_Ncf8HWMWYfBDvE4zBuhuBEySZe7MOdrkPk4qux2m92A
+
+[ES] Catrina [tutorial] - by MercaTecnia { yt: https://www.youtube.com/channel/UCA2Um04KZBuwieSPcNWA6IA }
+https://www.youtube.com/watch?v=y8clNu8MEe4&t=3s
+
+[ES] Deal With It [Tutorial] - by MercaTecnia { yt: https://www.youtube.com/channel/UCA2Um04KZBuwieSPcNWA6IA }
+https://www.youtube.com/watch?v=Bk2It4RQjb4&t=19s
+
+[ES] #TacosBeforeVatos Facebook AR tutorial - by MercaTecnia { yt: https://www.youtube.com/channel/UCA2Um04KZBuwieSPcNWA6IA }
+https://www.youtube.com/watch?v=St0AZSJfmls
+
+[EN] Javascript and Augmented Reality 101 - Build AR Studio Camera Effects Tutorial - by FusedVR  { yt: https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ }
+https://www.youtube.com/watch?v=Jae7vSc_NGM
+
+[EN] AR Studio vs Lens Studio: Build a Valentine's Day Filter on AR Studio! - by FusedVR { yt: https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ }
+https://www.youtube.com/watch?v=iOSr9MHgnlY
+
+[NONE] Facebook #ARStudio #Tutorial: How to build a #CameraEffect Marker Tracking - by Piotar Boa { yt: https://www.youtube.com/channel/UCrHxwdJ7qbLrV2IoKhZFLvA }
+https://www.youtube.com/watch?v=kpE_VzQCb7A
+
+[EN] Spark AR - Layers and Emitters - by Catalyst { yt: https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw }
+https://www.youtube.com/watch?v=sv2M9apHhzU
+
+[EN] ARStudio | Face Masking Tutorial - by Catalyst { yt: https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw }
+https://www.youtube.com/watch?v=SIioAzwgS94
+
+[NONE] Spark AR - Interactions - by Catalyst { yt: https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw }
+https://www.youtube.com/watch?v=CfRWj46sYEs
+
+[EN] Spark AR - Plane tracking - by Catalyst { yt: https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw }
+https://www.youtube.com/watch?v=9WZryBRGbsY
+
+[EN] Spark AR - Working with Audio (.M4A) - by Catalyst { yt: https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw }
+https://www.youtube.com/watch?v=J1oYCnyAlng
+
+[EN] Spark AR - Working with External Textures - Video - by Catalyst { yt: https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw }
+https://www.youtube.com/watch?v=TUmjepXSna8
+
+[EN] Spark AR - Patch Editor: Tracking, Transitions and Animation - by Catalyst { yt: https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw }
+https://www.youtube.com/watch?v=S17KmuqySyU
+
+[NONE] Facebook Spark AR HDRI Environment / Glass Shader Tutorial - by Mate Steinforth { yt: https://www.youtube.com/channel/UC_UWZmb_sTIa4LsQKAvNTQw }
+https://www.youtube.com/watch?v=hImMgRb6TEk&t=1s
+
+# vs
+
+[EN] AR Studio vs Lens Studio Side By Side Feature Comparison - by FusedVR { yt: https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ }
+https://www.youtube.com/watch?v=riLAnWOAkWw&list=PLihwab7Zw-Kx3WwFnH_5YjU0oz1JEKm_-&index=41

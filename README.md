@@ -3,7 +3,7 @@
 - [Download Spark AR](https://www.sparkar.com/ar-studio/download)
 - [Spark AR documentation](https://www.sparkar.com/ar-studio/learn/documentation/before-you-start)
 - [Facebook Community](https://www.facebook.com/SparkARcreators/)
-# spark-ar-tutorials
+# spark-ar-community-tutorials
 Library of tutorials for Spark AR.
 
 **[EN] Occlusion Basics How to achieve a “hole in the head” effect with a transparent PNG! - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fM
 **[NONE] Facebook Spark AR HDRI Environment / Glass Shader Tutorial - by Mate Steinforth { [youtube](https://www.youtube.com/channel/UC_UWZmb_sTIa4LsQKAvNTQw) }**
 >https://www.youtube.com/watch?v=hImMgRb6TEk&t=1s
 
-# vs
+# spark-ar-vs
 
 **[EN] AR Studio vs Lens Studio Side By Side Feature Comparison - by FusedVR { [youtube](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ) }**
 >https://www.youtube.com/watch?v=riLAnWOAkWw&list=PLihwab7Zw-Kx3WwFnH_5YjU0oz1JEKm_-&index=41

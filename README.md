@@ -2,7 +2,7 @@
 - [Spark AR Webiste](https://www.sparkar.com/ar-studio/)
 - [Download Spark AR](https://www.sparkar.com/ar-studio/download)
 - [Spark AR documentation](https://www.sparkar.com/ar-studio/learn/documentation/before-you-start)
-- [Facebook Community](https://www.facebook.com/SparkARcreators/)
+- [Facebook Community](https://www.facebook.com/groups/SparkARcommunity)
 - [Facebook Spark AR Youtube playlist](https://www.youtube.com/watch?v=w0JlBamTUVs&list=PLb0IAmt7-GS3YTAnK4PkLCAuB1niVQKhy)
 # spark-ar-community-tutorials
 Library of community tutorials for Spark AR.
@@ -105,4 +105,8 @@ https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fM
 # resources
 
 **[EN] This repo contains a complete solution to each tutorial on the AR Studio website - [Tutorials](https://developers.facebook.com/docs/ar-studio) - by Jam3 { [github](https://github.com/Jam3) }**
-https://github.com/Jam3/interns-ar-studio-tutorials
+>https://github.com/Jam3/interns-ar-studio-tutorials
+
+
+**[EN] spark-ar-patches - Some utility patches for Spark AR - Muhammad Syahman (fukarinka) { [github](https://github.com/fukarinka) } **
+>https://github.com/fukarinka/spark-ar-patches

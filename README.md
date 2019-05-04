@@ -3,6 +3,7 @@
 - [Download Spark AR](https://www.sparkar.com/ar-studio/download)
 - [Spark AR documentation](https://www.sparkar.com/ar-studio/learn/documentation/before-you-start)
 - [Facebook Community](https://www.facebook.com/SparkARcreators/)
+- [Facebook Spark AR Youtube playlist](https://www.youtube.com/watch?v=w0JlBamTUVs&list=PLb0IAmt7-GS3YTAnK4PkLCAuB1niVQKhy)
 # spark-ar-community-tutorials
 Library of community tutorials for Spark AR.
 
@@ -26,6 +27,9 @@ https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fM
 
 **[EN] Spark AR - Animation Basics - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
 >https://www.youtube.com/watch?v=mit9xcOSsUQ
+
+**[EN] Spark AR: Instagram Filter - How to convert an mp3 for use in a filter - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
+>https://www.youtube.com/watch?v=b5rw9Ypo7dY
 
 **[EN] streamlined permissions, how to walk a client through to giving you permission to manage effects on their page - by ‎Casie Lane Millhouse-Singh‎ { [facebook](https://www.facebook.com/millhouse.madhouse) }**
 >https://www.facebook.com/millhouse.madhouse/videos/799396883759205/
@@ -77,6 +81,21 @@ https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fM
 
 **[NONE] Facebook Spark AR HDRI Environment / Glass Shader Tutorial - by Mate Steinforth { [youtube](https://www.youtube.com/channel/UC_UWZmb_sTIa4LsQKAvNTQw) }**
 >https://www.youtube.com/watch?v=hImMgRb6TEk&t=1s
+
+**[EN] Video textures in AR Studio - by Josh Beckwith { [github](https://github.com/positlabs) }**
+>https://codepen.io/positlabs/post/video-textures-in-ar-studio
+
+**[EN] Editable Text (NativeUI Module) - by Jamie Poole { [facebook](https://www.facebook.com/genericbox) }**
+>https://forum.arstudio.guru/topic/14/editable-text-nativeui-module?fbclid=IwAR0r9OMsqSdRsb-vPJZzUIdot6SSMizNBqlu4Us9ul6TBjYyWgq4lH8HoCw
+
+**[EN] Photobooth - Spark AR - by Max Weisel { [github](https://github.com/maxw) }**
+>https://github.com/maxw/Spark-AR-Photobooth?fbclid=IwAR3DaMeIqK1tFnHCF44Ippb-LgXloP6uU7vgKJ_0id2KnmSbfKAib9YvTHM
+
+**[EN] Ar Studio Neck Bending Tutorial - by nelzster01 { [youtube](https://www.youtube.com/channel/UC3QEf4drxGXa13GFzQ1DADw) }**
+>https://www.youtube.com/watch?v=n6bSnctqmms
+
+**[EN] AUGMENTED REALITY WITH SPARK AR! - CS50 on Twitch, EP. 49 - by CS50 { [youtube](https://www.youtube.com/user/cs50tv/featured) }**
+>https://www.youtube.com/watch?v=jPIZiVvYYmY&list=WL&index=26&t=0s
 
 # spark-ar-vs
 

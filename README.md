@@ -108,5 +108,5 @@ https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fM
 >https://github.com/Jam3/interns-ar-studio-tutorials
 
 
-**[EN] spark-ar-patches - Some utility patches for Spark AR - Muhammad Syahman (fukarinka) { [github](https://github.com/fukarinka) } **
+**[EN] spark-ar-patches - Some utility patches for Spark AR - Muhammad Syahman (fukarinka) { [github](https://github.com/fukarinka) }**
 >https://github.com/fukarinka/spark-ar-patches

@@ -17,7 +17,7 @@ Library of community tutorials for Spark AR.
 >https://www.youtube.com/watch?v=VvYa5yF38xQ
 
 **[EN] Import ANY video into Spark AR for testing! - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
-https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fMB6Li_OfsI0vhtvNEjn5_sBizjZiZuIdo
+>https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fMB6Li_OfsI0vhtvNEjn5_sBizjZiZuIdo
 
 **[EN] Spark AR - Effect Breakdown ("Wichita") - by Luke Hurd { [facebook](https://www.facebook.com/lukejhurd/) [youtube](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q) }**
 >https://www.youtube.com/watch?v=CvVhlCBInvI
@@ -97,6 +97,9 @@ https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fM
 **[EN] AUGMENTED REALITY WITH SPARK AR! - CS50 on Twitch, EP. 49 - by CS50 { [youtube](https://www.youtube.com/user/cs50tv/featured) }**
 >https://www.youtube.com/watch?v=jPIZiVvYYmY&list=WL&index=26&t=0s
 
+**[EN] ArSparkShaders - Visual shaders experiments in Spark AR Studio. v50-v58 - by Guido Corallo { [github](https://github.com/gcorallo) }**
+>https://github.com/gcorallo/SparkArShaders
+
 # spark-ar-vs
 
 **[EN] AR Studio vs Lens Studio Side By Side Feature Comparison - by FusedVR { [youtube](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ) }**
@@ -108,5 +111,5 @@ https://www.youtube.com/watch?v=WWddZJflU0g&fbclid=IwAR13EIlR9OTqOmGWLLuRvxUN0fM
 >https://github.com/Jam3/interns-ar-studio-tutorials
 
 
-**[EN] spark-ar-patches - Some utility patches for Spark AR - Muhammad Syahman (fukarinka) { [github](https://github.com/fukarinka) }**
+**[EN] spark-ar-patches - Some utility patches for Spark AR - by Muhammad Syahman (fukarinka) { [github](https://github.com/fukarinka) }**
 >https://github.com/fukarinka/spark-ar-patches

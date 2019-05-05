@@ -4,6 +4,7 @@
 - [Spark AR documentation](https://www.sparkar.com/ar-studio/learn/documentation/before-you-start)
 - [Facebook Community](https://www.facebook.com/groups/SparkARcommunity)
 - [Facebook Spark AR Youtube playlist](https://www.youtube.com/watch?v=w0JlBamTUVs&list=PLb0IAmt7-GS3YTAnK4PkLCAuB1niVQKhy)
+- [Facebook for developers](https://developers.facebook.com/videos/spark-ar-studio/)
 # spark-ar-community-tutorials
 Library of community tutorials for Spark AR.
 
@@ -99,6 +100,9 @@ Library of community tutorials for Spark AR.
 
 **[EN] ArSparkShaders - Visual shaders experiments in Spark AR Studio. v50-v58 - by Guido Corallo { [github](https://github.com/gcorallo) }**
 >https://github.com/gcorallo/SparkArShaders
+
+**[EN] Pro Tips for Creating in Spark AR Studio - by Dan Moller { [facebook](https://www.facebook.com/danmoller) }**
+>https://developers.facebook.com/videos/2019/pro-tips-for-creating-in-spark-ar-studio/
 
 # spark-ar-vs
 

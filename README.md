@@ -130,3 +130,6 @@ Library of community tutorials for Spark AR.
 
 **[EN] Understanding shaders - by David Rousset { [linkedin](https://www.linkedin.com/in/davrous/) }**
 >https://www.davrous.com/2020/03/22/understanding-shaders-the-secret-sauce-of-3d-engines/
+
+**[EN] Learn opengl introduction to shaders [website](https://learnopengl.com/Getting-started/Shaders)**
+>https://learnopengl.com/Getting-started/Shaders

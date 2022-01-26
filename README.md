@@ -124,3 +124,9 @@ Library of community tutorials for Spark AR.
 
 **[EN] A must read resource to understand shaders [website](https://thebookofshaders.com/)**
 >https://thebookofshaders.com/
+
+**[EN] Complete list of shader examples [website](https://www.shadertoy.com/)**
+>https://www.shadertoy.com/
+
+**[EN] Understanding shaders - by David Rousset { [linkedin](https://www.linkedin.com/in/davrous/) }**
+>https://www.davrous.com/2020/03/22/understanding-shaders-the-secret-sauce-of-3d-engines/

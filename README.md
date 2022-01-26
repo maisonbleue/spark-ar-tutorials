@@ -119,5 +119,5 @@ Library of community tutorials for Spark AR.
 >https://github.com/fukarinka/spark-ar-patches
 
 # Shaders resources
-**[EN] This website go through a lot of shader examples and explanations but it's a lot oriented to code [website](https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html)
+**[EN] This website go through a lot of shader examples and explanations but it's a lot oriented to code [website](https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html)**
 >https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html
